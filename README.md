@@ -16,4 +16,4 @@ First and foremost, you must locate the location where your Carla is installed.
  Python topviewangle.py
 
 
-![dgddf](https://user-images.githubusercontent.com/70905483/171441473-34a149ca-7e0e-460e-92b7-636326b71d3a.jpg)
+<img width="1087" alt="Screenshot 2022-06-01 at 16 27 54" src="https://user-images.githubusercontent.com/70905483/171441895-50e5f03e-146f-4840-9986-2b885928b369.png">
