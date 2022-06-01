@@ -1,4 +1,4 @@
-# Top_view_data_carla. <img width="91" alt="Screenshot 2022-06-01 at 15 56 43" src="https://user-images.githubusercontent.com/70905483/171435239-7746c35f-8285-45c8-adab-3758aae8c368.png">
+# Top_view_data_carla. <img width="81" alt="Screenshot 2022-06-01 at 15 56 43" src="https://user-images.githubusercontent.com/70905483/171435239-7746c35f-8285-45c8-adab-3758aae8c368.png">
 
 
 
