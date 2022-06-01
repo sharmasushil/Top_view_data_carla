@@ -10,7 +10,7 @@ Let's get started right now.
 First and foremost, you must locate the location where your Carla is installed.
 
 
-Run the commond in terminal
+####### Run the commond in terminal
 
 ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -quality-level=Low -Resx=640 -ResY=480
 Python topviewangle.py
